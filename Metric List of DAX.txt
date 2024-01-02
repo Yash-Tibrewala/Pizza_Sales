@@ -1,0 +1,9 @@
+Avg order value = [Total revenue]/[Total orders]
+
+Total orders = DISTINCTCOUNT(pizza_sales[order_id])
+
+Total revenue = SUM(pizza_sales[total_price])
+
+Total Pizza sold = SUM(pizza_sales[quantity])
+
+
