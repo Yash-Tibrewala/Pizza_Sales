@@ -21,3 +21,4 @@ Analyzing key metrics is vital for understanding pizza sales performance. Power 
 
 6. Customer Segmentation:
 SQL queries can be utilized to segment customers based on their preferences, ordering frequency, and spending habits. Power BI visualizations can then present this information in an easily digestible format, aiding marketing efforts to target specific customer groups more effectively.
+
